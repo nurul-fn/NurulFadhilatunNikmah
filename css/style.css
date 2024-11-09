@@ -735,6 +735,10 @@ header .navbar .cta-btn a:hover {
   text-transform: uppercase;
 }
 
+.home-slider-static .slider-item p {
+  color: #fff;
+}
+
 /* Responsif */
 /* @media (max-width: 767px) {
   .home-slider-static .slider-item h1 {
