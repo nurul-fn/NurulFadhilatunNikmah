@@ -690,6 +690,23 @@ header .navbar .cta-btn a:hover {
   padding-bottom: 30px;
 }
 
+/* kode ku */
+.owl-carousel.home-slider, .owl-carousel.home-slider-loop-false {
+  width: 100%;
+  display: block;
+  position: relative;
+}
+
+.owl-carousel .slider-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+
+/* kode ku */
+
 .owl-carousel.major-caousel .owl-nav .owl-prev, .owl-carousel.major-caousel .owl-nav .owl-next {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
