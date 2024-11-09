@@ -573,6 +573,9 @@ header .navbar .cta-btn a:hover {
 .owl-carousel.home-slider, .owl-carousel.home-slider-loop-false {
   z-index: 1;
   position: relative;
+
+  /* punyaku */
+  overflow: hidden;
 }
 
 .owl-carousel.home-slider .btn-link, .owl-carousel.home-slider-loop-false .btn-link {
